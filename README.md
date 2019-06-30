@@ -1,5 +1,5 @@
 # Android-default-offline-CrossPromo-Ad-banner
-An offline ad banner that can be shown to Android app users if they don't have an internet connection.
+An offline ad banner that can be shown to Android app users if your banner ad fails to load.
 
 You can use this implementation in your Android app to show an ad to a user even if he has turned off or doesn't have an internet connection. This way, you can cross-promote other apps/products you've made.
 
