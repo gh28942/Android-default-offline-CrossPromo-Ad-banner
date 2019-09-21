@@ -11,6 +11,10 @@ import android.view.animation.AnimationUtils;
 import android.widget.ImageView;
 import android.widget.Toast;
 
+/**
+ * created by http://bit.ly/GerhGithub
+ */
+
 public class YourActivity extends AppCompatActivity {
 
   String ad_url = "http://bit.ly/fitClock";
