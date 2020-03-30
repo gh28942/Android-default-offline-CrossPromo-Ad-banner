@@ -7,8 +7,6 @@ You can use this implementation in your Android app to show an ad to a user even
 ## Example screenshot
 
 <br>
-<hr>
-<br>
 <p align="center">
 <img src="https://raw.githubusercontent.com/gh28942/Android-default-offline-CrossPromo-Ad-banner/master/examples/screenshot_20190630.jpg" width="30%">
 <br>What the offline banner will look like. Simply replace with your own logo and text.</br>
