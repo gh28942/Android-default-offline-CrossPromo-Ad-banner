@@ -2,7 +2,7 @@
 An <b>offline ad banner</b> that can be shown to Android app users <b>if your banner ad fails to load</b>.
 
 You can use this implementation in your Android app to show an ad to a user even if he has turned off or doesn't have an internet connection. The banner will also be shown if there's an internet connection but not enough time to load it. This way, you can <b>cross-promote other apps/products</b> you've made.
-
+<br><br>
 
 ## Example screenshot
 
